@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <p>
-I'm Naveed Asghar, a Full Stack Developer with around 4 years of hands-on experience building and optimizing web applications. My expertise lies in developing scalable, high-performance solutions using cutting-edge technologies like <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I am passionate about solving problems, delivering clean, maintainable code, and contributing to the success of projects through technical innovation.
+I'm Naveed Asghar, a Full Stack Developer with 5+ years of hands-on experience building and optimizing web applications. My expertise lies in developing scalable, high-performance solutions using cutting-edge technologies like <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I am passionate about solving problems, delivering clean, maintainable code, and contributing to the success of projects through technical innovation.
 
 I thrive in dynamic environments where I can collaborate with cross-functional teams to design, develop, and deploy reliable systems that enhance user experiences and meet business goals.
 
