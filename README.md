@@ -89,14 +89,6 @@ I focus on building <strong>high-performance AI systems</strong>, including conv
 
 ---
 
-## 🌟 GitHub Contributions
-
-![Bilal Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveed-devcodes&show_icons=true&theme=buefy&cache_buster=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveed-devcodes&hide=html&layout=compact&langs_count=8&theme=buefy&cache_buster=1)
-
----
-
 ## 🤝 Let's Collaborate
 
 I’m open to working on <strong>AI-driven products</strong>, <strong>LLM systems</strong>, and <strong>scalable backend architectures</strong>.  
